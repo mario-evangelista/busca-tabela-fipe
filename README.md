@@ -114,9 +114,9 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ## Contato
 
-- **Autor:** [Seu Nome](https://github.com/seu-usuario)
-- **Email:** seu-email@example.com
-- **LinkedIn:** [Seu Perfil](https://www.linkedin.com/in/seu-perfil)
+- **Autor:** [Seu Nome](https://github.com/mario-evangelista)
+- **Email:** mario@gmail.com
+- **LinkedIn:** [Seu Perfil](https://www.linkedin.com/in/marioevangelista)
 
 
 
