@@ -60,7 +60,7 @@ Este projeto é uma aplicação web que permite consultar o preço de veículos 
 
 2. **Navegue até a Pasta do Projeto:**
    ```bash
-   cd consulta-fipe-unime
+   cd busca-tabela-fipe
    ```
 
 3. **Abra o Arquivo `index.html`:**
@@ -71,7 +71,7 @@ Este projeto é uma aplicação web que permite consultar o preço de veículos 
 ## Estrutura do Projeto
 
 ```
-consulta-fipe-unime/
+busca-tabela-fipe/
 │
 ├── css/
 │   ├── styles.css          # Estilos principais da página
