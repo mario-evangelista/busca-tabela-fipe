@@ -55,7 +55,7 @@ Este projeto é uma aplicação web que permite consultar o preço de veículos 
 
 1. **Clone o Repositório:**
    ```bash
-   git clone https://github.com/seu-usuario/consulta-fipe-unime.git
+   git clone https://github.com/seu-usuario/busca-tabela-fipe.git
    ```
 
 2. **Navegue até a Pasta do Projeto:**
