@@ -106,17 +106,11 @@ Contribuições são bem-vindas! Siga os passos abaixo:
 
 ---
 
-## Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
----
-
 ## Contato
 
-- **Autor:** [Seu Nome](https://github.com/mario-evangelista)
+- **Autor:** [Mário Evangelista](https://github.com/mario-evangelista)
 - **Email:** mario@gmail.com
-- **LinkedIn:** [Seu Perfil](https://www.linkedin.com/in/marioevangelista)
+- **LinkedIn:** [Mário Evangelista](https://www.linkedin.com/in/marioevangelista)
 
 
 
